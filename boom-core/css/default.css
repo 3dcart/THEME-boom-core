@@ -28,6 +28,9 @@ h1 {
     font-weight: 600;
     letter-spacing: 0;
 }
+.homeCarousel.flexslider .slides img {
+    width: 100%;
+}
 #skip a
 {
 position:absolute;

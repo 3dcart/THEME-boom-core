@@ -22,6 +22,9 @@ a:hover,a:focus{color:#1700a3;}
 h1 {
     font-size: [heading_base_size]px;
 }
+.homeCarousel.flexslider .slides img {
+    width: 100%;
+}
 .titles {
     margin: 0 0 20px;
     font-size: 18px;
